@@ -1,0 +1,8 @@
+{
+  "name": "text-on-image-api",
+  "version": "1.0.0",
+  "main": "api/card.js",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
